@@ -1,1 +1,1 @@
-print("Hello DevOps from Yerdaulet")
+print("Hello DevOps from Yerdaulet afterr addin CI pipeline")
